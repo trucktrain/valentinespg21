@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html> 
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Will you be my Valentine??</title>
+        <link rel="stylesheet" type="text/css" href="style1.css">
+        
+    </head>
+    <body>
+        <div class="herro">
+            <h1>Will you be my Valentine?? (Will you be the Wanda to my Cosmo?)</h1>
+            <div class="buttons">
+                <button class="yes-button" onclick="handleYesClick()">perchance...</button>
+                <button class="no-button" onclick="handleNoClick()"><span>ew no tf</span></button>
+            </div>
+            <div class="photo1">
+                <img src="https://static.wikitide.net/loathsomecharacterswiki/thumb/8/8c/Cosmo_and_Wanda.png/640px-Cosmo_and_Wanda.png" alt="sad face">
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
