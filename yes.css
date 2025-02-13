@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffaed6;
+    font-family: cursive;
+}
+
+.herro {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: 10em;
+    color: black;
+}
+
+.photo21 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:45em;
+}
+
+a:link {color: black;}
+a:hover {color: rgb(13, 102, 185);}
+
+/* credits to https://github.com/ivysone/Will-you-be-my-Valentine-/blob/main/yes_style.css - queen helped me fr */
